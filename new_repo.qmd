@@ -7,10 +7,4 @@ editor: visual
 
 I watched an Indian movie recently in the theater.
 
-```{r}
-system('git config --global user.email "vijayalakshm@umass.edu"', intern = TRUE)
-```
-
-```{r}
-system('git config --global user.name "Vijayalakshmi Vasudevan"')
-```
+What did you eat for today\'s lunch? I had pesto pasta
