@@ -1,0 +1,16 @@
+---
+title: "new_repo_quarto"
+author: "Vijayalakshmi Vasudevan"
+format: html
+editor: visual
+---
+
+I watched an Indian movie recently in the theater.
+
+```{r}
+system('git config --global user.email "vijayalakshm@umass.edu"', intern = TRUE)
+```
+
+```{r}
+system('git config --global user.name "Vijayalakshmi Vasudevan"')
+```
